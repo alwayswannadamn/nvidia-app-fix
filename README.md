@@ -11,3 +11,8 @@
 
 **RU:** Обязательно запускайте от имени администратора.
 
+**ATTENTION**
+
+**EN:** If you want to open the Nvidia overlay or Nvidia app, you must first enable all Nvidia services back in the script.
+
+**RU:** Если вы захотите открыть оверлей нвидии или нвидия апп, необходимо сначала включить в скрипте все службы нвидии обратно.
